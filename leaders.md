@@ -1,3 +1,3 @@
 ### Leaders
-* [Leader One](mailto:leader.email@owasp.org)
-* [Leader Two](mailto:leader.email@owasp.org)
+* [Danilo Vezzoni](mailto:danilo.vezzoni@owasp.org)
+* [Paula Gantus](mailto:paula.gantus@owasp.org)
