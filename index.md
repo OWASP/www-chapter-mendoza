@@ -1,10 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
+title: OWASP Mendoza
 tags: example-tag
-region: [:REGION]
-country: [:COUNTRY]
+region: South America
+country: Argentina
 meetup-group:
 
 ---
