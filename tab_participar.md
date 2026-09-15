@@ -16,7 +16,7 @@ OWASP Mendoza es una comunidad de voluntarios. No hace falta ser experto ni miem
 - Venite a las charlas y encuentros del capítulo
 - Proponé un tema o date como speaker
 - Ayudá a organizar actividades, difusión o espacios
-- Seguinos en [Instagram](https://www.instagram.com/owaspmendoza){:target='_blank'}
+- Seguinos en [Instagram](https://www.instagram.com/owaspmendoza)
 - Entrá al [Slack de OWASP](https://owasp.org/slack/invite) y contactá a los [líderes](mailto:danilo.vezzoni@owasp.org)
 
 ### Universidades y centros educativos

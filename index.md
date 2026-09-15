@@ -32,9 +32,9 @@ OWASP es una fundación sin fines de lucro que trabaja para mejorar la seguridad
 
 Los capítulos son liderados por líderes locales de acuerdo con la [política de capítulos](/www-policy/operational/chapters). Las contribuciones financieras deben hacerse únicamente en línea, usando el botón oficial de donación.
 
-Toda persona es bienvenida a participar en los [proyectos](/projects/), [capítulos locales](/chapters/), [eventos](/events/), [grupos online](https://groups.google.com/a/owasp.com/){:target='_blank'} y el [Slack de la comunidad](https://owasp.slack.com/){:target='_blank'}. OWASP es un excelente lugar para aprender sobre seguridad en aplicaciones, generar red y construir reputación. También podés [hacerte miembro](/membership/) o [donar](/donate/) para apoyar el trabajo de la fundación.
+Toda persona es bienvenida a participar en los [proyectos](/projects/), [capítulos locales](/chapters/), [eventos](/events/), [grupos online](https://groups.google.com/a/owasp.com/) y el [Slack de la comunidad](https://owasp.slack.com/). OWASP es un excelente lugar para aprender sobre seguridad en aplicaciones, generar red y construir reputación. También podés [hacerte miembro](/membership/) o [donar](/donate/) para apoyar el trabajo de la fundación.
 
-Para sumarte al capítulo Mendoza, seguinos en [Instagram](https://www.instagram.com/owaspmendoza){:target='_blank'}, contactá a los líderes, entrá al [Slack de OWASP](https://owasp.org/slack/invite) o, si querés ser speaker, revisá el [speaker agreement](/www-policy/speaker-agreement).
+Para sumarte al capítulo Mendoza, seguinos en [Instagram](https://www.instagram.com/owaspmendoza), contactá a los líderes, entrá al [Slack de OWASP](https://owasp.org/slack/invite) o, si querés ser speaker, revisá el [speaker agreement](/www-policy/speaker-agreement).
 
 ## Próximos eventos
 
