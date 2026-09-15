@@ -1,0 +1,24 @@
+leaders:
+  - name: Danilo Vezzoni
+    email: danilo.vezzoni@owasp.org
+  - name: Paula Gantus
+    email: paula.gantus@owasp.org
+  - name: Ariel Quintana
+    email: aquintana@focasoftware.com
+location:
+  country: Argentina
+  country_code: AR
+  region: Mendoza
+  city: Mendoza
+  latitude: -32.8894587
+  longitude: -68.8458386
+name: OWASP Mendoza
+repositories:
+  - name: www-chapter-mendoza
+    url: https://github.com/OWASP/www-chapter-mendoza
+    description: OWASP Foundation Web Repository
+tags:
+  - Argentina
+  - Mendoza
+  - AR
+website: https://owasp.org/www-chapter-mendoza
