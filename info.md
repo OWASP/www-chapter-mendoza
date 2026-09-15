@@ -6,7 +6,7 @@
 * [Donar](/donate/)
 
 ### Redes
-* [Instagram](https://www.instagram.com/owaspmendoza){:target='_blank'}
+* [Instagram](https://www.instagram.com/owaspmendoza)
 
 ### Comunidad
 * [Slack de OWASP](https://owasp.org/slack/invite)
