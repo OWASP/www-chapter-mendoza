@@ -1,3 +1,23 @@
+# Jekyll / GitHub Pages
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
 /Gemfile.lock
 /favicon.ico
-_site/
+
+# Local preview only (Ruby version, plugins, config overrides)
+.ruby-version
+_config.local.yml
+_plugins/
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~

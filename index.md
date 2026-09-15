@@ -1,87 +1,41 @@
 ---
-
 layout: col-sidebar
 title: OWASP Mendoza
-tags: example-tag
+tags: mendoza
 region: South America
 country: Argentina
+postal-code: 5500
 meetup-group:
 
 ---
 
-<div style='color:red;'>
+## Bienvenidos
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+El capítulo **OWASP Mendoza** es la comunidad local de la [Open Worldwide Application Security Project](https://owasp.org/) en Mendoza, Argentina.
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+Nuestro objetivo es fomentar una comunidad abierta alrededor de la seguridad en aplicaciones: compartir conocimiento, difundir proyectos y recursos de OWASP, y conectar a personas que desarrollan, prueban, diseñan, enseñan o estudian software en Cuyo.
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP My Fancy Project or OWASP New City Chapter</li>
+OWASP es una fundación internacional sin fines de lucro. Todo el material, las herramientas y las actividades de los capítulos son abiertos y gratuitos.
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+## Qué hacemos
 
-<li>region: This is the region you are in according to our data</li>
+- Charlas y encuentros sobre seguridad en aplicaciones
+- Difusión de proyectos OWASP como [Top 10](https://owasp.org/www-project-top-ten/), [ASVS](https://owasp.org/www-project-application-security-verification-standard/) y [Cheat Sheets](https://cheatsheetseries.owasp.org/)
+- Espacio para estudiantes, profesionales y empresas de la región
+- Colaboración con universidades y otras comunidades técnicas de Mendoza
 
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+Si querés dar una charla, proponer un espacio o ayudar a organizar actividades, escribinos a los líderes del capítulo.
 
-</div>
+## Participación
 
-## Welcome
-Include some information here about your chapter
+OWASP es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Todos los proyectos, herramientas, documentos, foros y capítulos son libres y abiertos para cualquier persona interesada en seguridad de aplicaciones.
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Los capítulos son liderados por líderes locales de acuerdo con la [política de capítulos](/www-policy/operational/chapters). Las contribuciones financieras deben hacerse únicamente en línea, usando el botón oficial de donación.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Toda persona es bienvenida a participar en los [proyectos](/projects/), [capítulos locales](/chapters/), [eventos](/events/), [grupos online](https://groups.google.com/a/owasp.com/){:target='_blank'} y el [Slack de la comunidad](https://owasp.slack.com/){:target='_blank'}. OWASP es un excelente lugar para aprender sobre seguridad en aplicaciones, generar red y construir reputación. También podés [hacerte miembro](/membership/) o [donar](/donate/) para apoyar el trabajo de la fundación.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+Para sumarte al capítulo Mendoza, seguinos en [Instagram](https://www.instagram.com/owaspmendoza){:target='_blank'}, contactá a los líderes, entrá al [Slack de OWASP](https://owasp.org/slack/invite) o, si querés ser speaker, revisá el [speaker agreement](/www-policy/speaker-agreement).
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
+## Próximos eventos
+
 {% include chapter_events.html group=page.meetup-group %}
-
-<!-- You should delete this comment
-
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
